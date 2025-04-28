@@ -49,13 +49,13 @@ def generate_report(students):
 
 #Sample student list
 students = [
-    {"name": "Leah", "scores": [70, 80, 90]},
+    {"name": "Omolade", "scores": [70, 80, 90]},
     {"name": "Chloae", "scores": [60, 75, 85]},
-    {"name": "Charlie", "scores": [88, 92, 79]},
-    {"name": "Diana", "scores": [95, 85, 87]},
-    {"name": "Ethan", "scores": [55, 65, 70]},
+    {"name": "Leah", "scores": [88, 92, 79]},
+    {"name": "Uche", "scores": [95, 85, 87]},
+    {"name": "Sam", "scores": [55, 65, 70]},
     {"name": "Fiona", "scores": [100, 90, 95]},
-    {"name": "George", "scores": [77, 84, 82]},
+    {"name": "Zainab", "scores": [77, 84, 82]},
 ]
 
 # Run report
